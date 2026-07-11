@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /merci.html
+Disallow: /efharisto.html
 
 # Sitemap
 Sitemap: https://agora-kritikon.com/sitemap.xml
