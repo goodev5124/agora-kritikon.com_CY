@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /efharisto.html
 
-# Sitemap
 Sitemap: https://agora-kritikon.com/sitemap.xml
